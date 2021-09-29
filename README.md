@@ -1,2 +1,1 @@
-# Squad-4
-Tarefa_Mocha_Chai
+# Project-CALCULADORA-TDD-JS
